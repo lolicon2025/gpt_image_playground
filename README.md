@@ -349,7 +349,7 @@ services:
 ```yaml
 services:
   gpt-image-playground:
-    image: ghcr.io/YOUR_GITHUB_USERNAME/gpt_image_playground:latest
+    image: ghcr.io/lolicon2025/gpt_image_playground:latest
     container_name: gpt-image-playground-fork
     ports:
       - "30038:80"
